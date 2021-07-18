@@ -6,8 +6,8 @@ Spam bot instagram Tesla
 
 / pkg install python
 
-/ git clone 
+/ git clone https://github.com/TESLAHWUWGEV/King-spam-Tesla.git
 
-/ cd 
+/ cd King-spam-Tesla
 
-/ python 
+/ python King-spam-Tesla.py
